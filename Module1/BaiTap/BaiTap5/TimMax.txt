@@ -1,0 +1,10 @@
+Begin 2 3 4 2
+         Input n
+    input i=0
+while( i<n)
+do
+ i = i+1
+inpu
+if a1=Max  print "a1"
+else ai >a1 print "ai"
+   

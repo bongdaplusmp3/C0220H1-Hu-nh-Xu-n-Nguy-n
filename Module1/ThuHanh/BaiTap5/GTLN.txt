@@ -1,0 +1,17 @@
+Begin
+   Input N
+   i = 0
+while (i<N)
+do   Input ai
+     i = i + 1
+  end do
+ input max =a0
+i =0
+while (i <N)
+do if (max <ai) 
+ max = ai
+else max = a0
+end if 
+i = i+1
+end do
+display max

@@ -1,0 +1,6 @@
+Begin
+ INPUT A1,A2,A3
+            C=(A1+A2+A3)/3
+            Display C
+     END IF
+ END

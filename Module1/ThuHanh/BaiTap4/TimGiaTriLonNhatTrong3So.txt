@@ -1,0 +1,7 @@
+Begin
+ Input A,B,C
+    If A>B Then 
+       If A>C Print" A là so lon nhat"
+Else  
+          If  B>C  Print "B la so lon nhat"  
+    Else Print "C là so lon nhat"
